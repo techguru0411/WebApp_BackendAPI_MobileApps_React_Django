@@ -11,7 +11,7 @@ export default class Detail extends React.Component {
     render () {
         return (
             <View>
-                <Text>Details page here</Text>
+                <Text>Let's have some fun time. We all are doing great. So, this is the way we should have some great fun.</Text>
             </View>
         )
     }
